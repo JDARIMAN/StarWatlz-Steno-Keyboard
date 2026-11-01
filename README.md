@@ -16,3 +16,6 @@ Schematic:
 <img width="1265" height="840" alt="image" src="https://github.com/user-attachments/assets/4d61cbcf-13cd-498a-a392-8461a758e4e0" />
 
 This board uses low profile switches as it is standard on steno keyboards
+
+# AI USAGE DECLARATION
+Even if I haven't written any firmware, as I don't have my microcontroller yet, it will be AI assisted. Most of the AI usage comes down to the tolerances of the designs measurements.
